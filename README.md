@@ -1,2 +1,2 @@
 # cdsw-ros-lunar
-Turn you CDSW engine into a lunar workspace.
+Turn you CDSW engine into a ROS lunar workspace.
